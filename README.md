@@ -1,2 +1,2 @@
 # crud
-Create read update delete actions project
+create read update delete actions project

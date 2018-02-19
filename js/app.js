@@ -1,6 +1,6 @@
 "use strict";
 
-$(document).ready(function () {
+$(function () {
     $(".edit-pencil").on("click", function() {
         $(this).parent().next().toggle();
     });

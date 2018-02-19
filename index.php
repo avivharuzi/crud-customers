@@ -3,12 +3,10 @@
 require_once("auth/config.php");
 
 $deleteMsg = CustomerHandler::deleteCustomerAction($conn);
-
 $editMsg = CustomerHandler::editCustomerAction($conn);
-
 $addMsg = CustomerHandler::addCustomerAction($conn);
 
-$title = "Home";
+$title = "Crud Customers";
 
 ?>
 
@@ -16,7 +14,7 @@ $title = "Home";
 <div class="row justify-content-center">
     <div class="col-lg-12">
         <div class="jumbotron bg-secondary text-light mt-3">
-            <h3>CRUD TABLE</h3>
+            <h3>CRUD TABLE OF CUSTOMERS</h3>
         </div>
         <?php
         if (!empty($addMsg)) {

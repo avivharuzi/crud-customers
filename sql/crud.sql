@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
 --
--- Host: 127.0.0.1    Database: library
+-- Host: 127.0.0.1    Database: crud
 -- ------------------------------------------------------
 -- Server version	5.5.5-10.1.26-MariaDB
 

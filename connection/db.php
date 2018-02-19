@@ -5,7 +5,7 @@ class Database {
     private $Server      = "localhost";
     private $User        = "root";
     private $Password    = "";
-    private $Db          = "library";
+    private $Db          = "crud";
     private $IsConnected = false;
     private static $dbSingleInstance;
     

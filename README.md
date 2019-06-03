@@ -1,3 +1,3 @@
 # CRUD Customers
 
-Create, Read, Update and Delete actions project
+Create, Read, Update and Delete actions project.

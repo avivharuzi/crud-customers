@@ -1,2 +1,3 @@
-# crud-customers
-create read update delete actions project
+# CRUD Customers
+
+Create, Read, Update and Delete actions project
